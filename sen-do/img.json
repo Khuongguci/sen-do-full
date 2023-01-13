@@ -1,0 +1,2464 @@
+{"product":[
+    {
+        "id": 31879266,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-31879266.html",
+        "image": "https://media3.scdn.vn/img4/2022/06_09/yg9JxBY4MHB5UQw2nGeb_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 150000,
+        "default_price_max": 150000,
+        "sale_price_min": 65000,
+        "sale_price_max": 65000,
+        "sale_percent": 57,
+        "sold": 151,
+        "seller_admin_id": 574116,
+        "sku_user": "Giày thể thao nam",
+        "product_type": 23,
+        "active_event_frame": "sale_event",
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 574116,
+            "name": "THẾ GIỚI HÀNG HOÁ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 38,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "sale_event",
+                "icon": "https://media3.scdn.vn/img4/2022/11_30/AJRNWHTuM81Z161B9H5p.png"
+            },
+            {
+                "position": "top",
+                "type": "mega_voucher",
+                "icon": "https://media3.scdn.vn/img4/2022/11_29/CSeoWR4PvcxVr6L8AoIc.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 24771184,
+        "name": "Giầy thể thao nam nữ",
+        "category_path": "giay-the-thao-nam-nu-24771184.html",
+        "image": "https://media3.scdn.vn/img4/2020/09_21/guNkxK7pCxm283G3wQDX_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 350000,
+        "default_price_max": 350000,
+        "sale_price_min": 169000,
+        "sale_price_max": 169000,
+        "sale_percent": 52,
+        "sold": 16,
+        "seller_admin_id": 324319,
+        "sku_user": "Giầy XD001",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 324319,
+            "name": "Chicago Bulls Shop",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 8,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "instant_shipping",
+                "text": "Hoả tốc",
+                "text_color": "#449460",
+                "bg_color": "#f5fbf7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+            }
+        ]
+    },
+    {
+        "id": 22197544,
+        "name": "Giầy thể thao nam cổ thấp",
+        "category_path": "giay-the-thao-nam-co-thap-22197544.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_1/yNoVc4_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 330000,
+        "default_price_max": 330000,
+        "sale_price_min": 189000,
+        "sale_price_max": 189000,
+        "sale_percent": 43,
+        "sold": 155,
+        "seller_admin_id": 112908,
+        "sku_user": "FSG89",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 112908,
+            "name": "Giầy Bền Giá Tốt",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 42,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "combo_discount",
+                "text": "Mua gói siêu hời",
+                "text_color": "#584FA8",
+                "bg_color": "#fff8e0",
+                "icon": "https://media3.scdn.vn/img4/2022/11_10/DXiJ83Uz8qnCMxCPKfaT.png"
+            }
+        ]
+    },
+    {
+        "id": 28117892,
+        "name": "GIẦY THỂ THAO NAM CỰC CHẤT 2020 XTHT 13",
+        "category_path": "giay-the-thao-nam-cuc-chat-2020-xtht-13-28117892.html",
+        "image": "https://media3.scdn.vn/img4/2020/03_27/ZiML0XnNzU2JaEAev96t_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 119000,
+        "default_price_max": 119000,
+        "sale_price_min": 59000,
+        "sale_price_max": 59000,
+        "sale_percent": 51,
+        "sold": 337,
+        "seller_admin_id": 560316,
+        "sku_user": "chất 2020",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 560316,
+            "name": "XƯỞNG TÚI HIẾU THƯ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 119,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20619650,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-20619650.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_9/zLu6xB_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 230000,
+        "default_price_max": 230000,
+        "sale_price_min": 160000,
+        "sale_price_max": 160000,
+        "sale_percent": 31,
+        "sold": 12,
+        "discount_app": 2,
+        "seller_admin_id": 497685,
+        "sku_user": "S45",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 497685,
+            "name": "shop sh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 2,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            }
+        ]
+    },
+    {
+        "id": 17208219,
+        "name": "Giầy thể thao nam - M08",
+        "category_path": "giay-the-thao-nam-m08-17208219.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_4/aWXn6H_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 280000,
+        "default_price_max": 280000,
+        "sale_price_min": 195000,
+        "sale_price_max": 195000,
+        "sale_percent": 31,
+        "sold": 143,
+        "has_video": true,
+        "discount_app": 2,
+        "seller_admin_id": 416134,
+        "sku_user": "Mã M08.",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 416134,
+            "name": "yeubetho123",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nam",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 25,
+            "star": 4.7
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19779210,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-19779210.html",
+        "image": "https://media3.scdn.vn/img3/2019/7_10/j11sfp_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 230000,
+        "default_price_max": 230000,
+        "sale_price_min": 129000,
+        "sale_price_max": 129000,
+        "sale_percent": 44,
+        "sold": 13,
+        "discount_app": 2,
+        "seller_admin_id": 417755,
+        "sku_user": "S46.1",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 417755,
+            "name": "HQH Store",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            }
+        ]
+    },
+    {
+        "id": 32482221,
+        "name": "Giày thể thao nam Sans202 giầy sneaker đẹp màu trắng đen cổ thấp",
+        "category_path": "giay-the-thao-nam-sans202-giay-sneaker-dep-mau-trang-den-co-thap-32482221.html",
+        "image": "https://media3.scdn.vn/img4/2022/09_13/n4Rsj3M1RFX52k70jHAO_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 435000,
+        "default_price_max": 435000,
+        "sale_price_min": 219000,
+        "sale_price_max": 219000,
+        "sale_percent": 50,
+        "sold": 301,
+        "has_video": true,
+        "seller_admin_id": 316813,
+        "sku_user": "Giày Thể Thao Nam Sans202",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 316813,
+            "name": "Sans Shop",
+            "is_certified": true,
+            "status": 2,
+            "level": 4,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/d0DISnbiFa7jRW20whKD.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 50,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "combo_discount",
+                "text": "Mua gói siêu hời",
+                "text_color": "#584FA8",
+                "bg_color": "#fff8e0",
+                "icon": "https://media3.scdn.vn/img4/2022/11_10/DXiJ83Uz8qnCMxCPKfaT.png"
+            }
+        ]
+    },
+    {
+        "id": 14049945,
+        "name": "Giầy thể thao nam họa tiết 022",
+        "category_path": "giay-the-thao-nam-hoa-tiet-022-14049945.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_12/o08WDu_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 198000,
+        "default_price_max": 198000,
+        "sale_price_min": 129000,
+        "sale_price_max": 129000,
+        "sale_percent": 35,
+        "sold": 21,
+        "seller_admin_id": 470137,
+        "sku_user": "022",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 470137,
+            "name": "BHSHOESS99",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lào Cai",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 4,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17903452,
+        "name": "Giày sneaker nam nữ unisex Sans206 da lộn màu be đen đế bằng cột dây giầy thể thao sports",
+        "category_path": "giay-sneaker-nam-nu-unisex-sans206-da-lon-mau-be-den-de-bang-cot-day-giay-the-thao-sports-17903452.html",
+        "image": "https://media3.scdn.vn/img4/2022/09_13/FgDQwxzKVNQIP0oMv5TK_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 335000,
+        "default_price_max": 335000,
+        "sale_price_min": 169000,
+        "sale_price_max": 169000,
+        "sale_percent": 50,
+        "sold": 36,
+        "has_video": true,
+        "seller_admin_id": 316813,
+        "sku_user": "Giày thể thao sneaker nam Sans206",
+        "product_type": 23,
+        "like_counter": 1,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 316813,
+            "name": "Sans Shop",
+            "is_certified": true,
+            "status": 2,
+            "level": 4,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/d0DISnbiFa7jRW20whKD.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "combo_discount",
+                "text": "Mua gói siêu hời",
+                "text_color": "#584FA8",
+                "bg_color": "#fff8e0",
+                "icon": "https://media3.scdn.vn/img4/2022/11_10/DXiJ83Uz8qnCMxCPKfaT.png"
+            }
+        ]
+    },
+    {
+        "id": 18675499,
+        "name": "Giầy thể thao nam - M08",
+        "category_path": "giay-the-thao-nam-m08-18675499.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_20/NcyWoK_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 280000,
+        "default_price_max": 280000,
+        "sale_price_min": 185000,
+        "sale_price_max": 185000,
+        "sale_percent": 34,
+        "sold": 106,
+        "has_video": true,
+        "discount_app": 2,
+        "seller_admin_id": 416134,
+        "sku_user": "Mã M08",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 416134,
+            "name": "yeubetho123",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nam",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 19,
+            "star": 4.4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19413167,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-19413167.html",
+        "image": "https://media3.scdn.vn/img3/2019/6_24/FPIOyX_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 299000,
+        "default_price_max": 299000,
+        "sale_price_min": 189000,
+        "sale_price_max": 189000,
+        "sale_percent": 37,
+        "sold": 23,
+        "discount_app": 2,
+        "seller_admin_id": 417755,
+        "sku_user": "GNS9-3",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 417755,
+            "name": "HQH Store",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 3,
+            "star": 3
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            }
+        ]
+    },
+    {
+        "id": 20619646,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-20619646.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_9/RkNSpT_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 299000,
+        "default_price_max": 299000,
+        "sale_price_min": 180000,
+        "sale_price_max": 180000,
+        "sale_percent": 40,
+        "sold": 4,
+        "discount_app": 2,
+        "seller_admin_id": 497685,
+        "sku_user": "S44",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 497685,
+            "name": "shop sh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            }
+        ]
+    },
+    {
+        "id": 25673701,
+        "name": "Giầy thể thao nam mầu xám",
+        "category_path": "giay-the-thao-nam-mau-xam-25673701.html",
+        "image": "https://media3.scdn.vn/img4/2020/02_10/Espm6dYIbYDQWQ50ephK_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 299000,
+        "default_price_max": 299000,
+        "sale_price_min": 189000,
+        "sale_price_max": 189000,
+        "sale_percent": 37,
+        "sold": 1,
+        "discount_app": 2,
+        "seller_admin_id": 417755,
+        "sku_user": "S58",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 417755,
+            "name": "HQH Store",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            }
+        ]
+    },
+    {
+        "id": 21649862,
+        "name": "Giầy thể thao nam thêu tim",
+        "category_path": "giay-the-thao-nam-theu-tim-21649862.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_12/FkPvHD_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 180000,
+        "default_price_max": 180000,
+        "sale_price_min": 180000,
+        "sale_price_max": 180000,
+        "sold": 5,
+        "seller_admin_id": 598121,
+        "sku_user": "G4",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 598121,
+            "name": "nguyenhuong06",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 4
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23280284,
+        "name": "Giầy thể thao nam cao cấpS80",
+        "category_path": "giay-the-thao-nam-cao-caps80-23280284.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_2/nXBUQH_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 169000,
+        "default_price_max": 169000,
+        "sale_price_min": 169000,
+        "sale_price_max": 169000,
+        "sold": 2,
+        "seller_admin_id": 612830,
+        "sku_user": "S80",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 612830,
+            "name": "shopqunyh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16754411,
+        "name": "Giầy Thể Thao Nam Nữ",
+        "category_path": "giay-the-thao-nam-nu-16754411.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_17/6lBJtM_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "sold": 1,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy Thể Thao Nữ",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17354848,
+        "name": "Giầy thể thao nam nữ cao cổ cao cấp",
+        "category_path": "giay-the-thao-nam-nu-cao-co-cao-cap-17354848.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_10/bCYKtL_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 780000,
+        "default_price_max": 780000,
+        "sale_price_min": 780000,
+        "sale_price_max": 780000,
+        "sold": 2,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam nữ cao cổ",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16926476,
+        "name": "Giầy thể thao nam , nữ",
+        "category_path": "giay-the-thao-nam-nu-16926476.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_23/hOdcnM_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 560000,
+        "default_price_max": 560000,
+        "sale_price_min": 560000,
+        "sale_price_max": 560000,
+        "sold": 2,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam , nữ",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 7289851,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-7289851.html",
+        "image": "https://media3.scdn.vn/img2/2017/10_10/9P1eui_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 300000,
+        "default_price_max": 300000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sale_percent": 34,
+        "sold": 50,
+        "discount_app": 2,
+        "seller_admin_id": 94880,
+        "sku_user": "G444",
+        "product_type": 23,
+        "like_counter": 15,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 94880,
+            "name": "banhangtructuyen360",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 5,
+            "star": 4.2
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 48862020,
+        "name": "Giày asia, giầy thể thao nam asia da bò cao cấp",
+        "category_path": "giay-asia-giay-the-thao-nam-asia-da-bo-cao-cap-48862020.html",
+        "image": "https://media3.scdn.vn/img4/2021/08_29/6zTUn3vpOQd8DDhVB3Vx_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 645000,
+        "default_price_max": 645000,
+        "sale_price_min": 645000,
+        "sale_price_max": 645000,
+        "sold": 4,
+        "seller_admin_id": 698598,
+        "sku_user": "8292T",
+        "product_type": 23,
+        "like_counter": 215,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 698598,
+            "name": "bonshoes",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20473813,
+        "name": "Giầy thể thao nam nữ phong cách thời trang",
+        "category_path": "giay-the-thao-nam-nu-phong-cach-thoi-trang-20473813.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_3/sbQ2IY_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 199000,
+        "default_price_max": 199000,
+        "sale_price_min": 199000,
+        "sale_price_max": 199000,
+        "sold": 6,
+        "seller_admin_id": 598121,
+        "sku_user": "071",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 598121,
+            "name": "nguyenhuong06",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23418746,
+        "name": "Giầy thể thao nam ,giầy sneaker PADAUK XTHT 12",
+        "category_path": "giay-the-thao-nam-giay-sneaker-padauk-xtht-12-23418746.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_7/jpeFXV_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 105000,
+        "default_price_max": 105000,
+        "sale_price_min": 69000,
+        "sale_price_max": 69000,
+        "sale_percent": 35,
+        "sold": 32,
+        "seller_admin_id": 560316,
+        "sku_user": "GIAYNAM 12",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 560316,
+            "name": "XƯỞNG TÚI HIẾU THƯ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 7,
+            "star": 4.6
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22553337,
+        "name": "Giầy thể thao nam,giầy sneaker So So XTHT 2",
+        "category_path": "giay-the-thao-nam-giay-sneaker-so-so-xtht-2-22553337.html",
+        "image": "https://media3.scdn.vn/img3/2019/10_12/AzR40O_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 120000,
+        "default_price_max": 120000,
+        "sale_price_min": 79000,
+        "sale_price_max": 79000,
+        "sale_percent": 35,
+        "sold": 216,
+        "seller_admin_id": 560316,
+        "sku_user": "GN 2",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 560316,
+            "name": "XƯỞNG TÚI HIẾU THƯ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 68,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 34541638,
+        "name": "Giầy thể thao nam,giầy sneaker chữ hoa XTHT 19",
+        "category_path": "giay-the-thao-nam-giay-sneaker-chu-hoa-xtht-19-34541638.html",
+        "image": "https://media3.scdn.vn/img4/2020/10_03/OB2qca2trWBkuwPxb7WT_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 119000,
+        "default_price_max": 119000,
+        "sale_price_min": 69000,
+        "sale_price_max": 69000,
+        "sale_percent": 43,
+        "sold": 25,
+        "seller_admin_id": 560316,
+        "sku_user": "G 19",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 560316,
+            "name": "XƯỞNG TÚI HIẾU THƯ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 4,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 22110334,
+        "name": "Giầy thể thao nam,giầy sneaker Da Xanh XTHT 3",
+        "category_path": "giay-the-thao-nam-giay-sneaker-da-xanh-xtht-3-22110334.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_28/xw3usj_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 99000,
+        "default_price_max": 99000,
+        "sale_price_min": 59000,
+        "sale_price_max": 59000,
+        "sale_percent": 41,
+        "sold": 13,
+        "seller_admin_id": 560316,
+        "sku_user": "giầy nam 3",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 560316,
+            "name": "XƯỞNG TÚI HIẾU THƯ",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 5,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19025996,
+        "name": "[ GIÁ HỦY DIỆT ]GIẦY SNEAKER CAO CẤP G2 NB - ĐEN Thể Thao Nam phong cách Korea HOT TREND",
+        "category_path": "gia-huy-diet-giay-sneaker-cao-cap-g2-nb-den-the-thao-nam-phong-cach-korea-hot-trend-19025996.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_27/uimONi_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 300000,
+        "default_price_max": 300000,
+        "sale_price_min": 300000,
+        "sale_price_max": 300000,
+        "sold": 10,
+        "seller_admin_id": 118460,
+        "sku_user": "G2den5",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 118460,
+            "name": "Thiết Bị Kích Sóng Wifi",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 19597533,
+        "name": "Giầy thể thao nam TL411, Chất đẹp bán shop Thành Long chuyên giày sneaker nam",
+        "category_path": "giay-the-thao-nam-tl411-chat-dep-ban-shop-thanh-long-chuyen-giay-sneaker-nam-19597533.html",
+        "image": "https://media3.scdn.vn/img4/2021/06_02/NG2Ja6PjQvy8FpFGEewI_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 219000,
+        "default_price_max": 219000,
+        "sale_price_min": 135000,
+        "sale_price_max": 135000,
+        "sale_percent": 39,
+        "sold": 16,
+        "has_video": true,
+        "discount_app": 2,
+        "seller_admin_id": 604104,
+        "sku_user": "TL411",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 604104,
+            "name": "shop thành long",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "TP.HCM",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 4,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 10719977,
+        "name": "Giày sneaker nam G503 , giầy thể thao vải sợi dệt lưới thoáng khí phong cách Streetwear đơn giản độc đáo cá tính",
+        "category_path": "giay-sneaker-nam-g503-giay-the-thao-vai-soi-det-luoi-thoang-khi-phong-cach-streetwear-don-gian-doc-dao-ca-tinh-10719977.html",
+        "image": "https://media3.scdn.vn/img2/2018/7_20/NPnlEA_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 400000,
+        "default_price_max": 400000,
+        "sale_price_min": 400000,
+        "sale_price_max": 400000,
+        "sold": 8,
+        "discount_app": 2,
+        "seller_admin_id": 250924,
+        "sku_user": "Giày sneaker nam - G503",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 250924,
+            "name": "Đồ Nam Độc",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18753405,
+        "name": "GIẦY THỂ THAO NAM",
+        "category_path": "giay-the-thao-nam-18753405.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_24/G3wJyN_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 1999000,
+        "default_price_max": 1999000,
+        "sale_price_min": 1999000,
+        "sale_price_max": 1999000,
+        "sold": 3,
+        "seller_admin_id": 489716,
+        "sku_user": "GIẦY THỂ THAO NAM NỮ",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 489716,
+            "name": "Vikings StoreVn",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16609856,
+        "name": "GIẦY SNEAKER DA G4 KẺ SPORT FASHION [ Trắng - Xám ] SPORT thể thao Nam 2019",
+        "category_path": "giay-sneaker-da-g4-ke-sport-fashion-trang-xam-sport-the-thao-nam-2019-16609856.html",
+        "image": "https://media3.scdn.vn/img3/2019/2_20/YIPLGb_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 220000,
+        "default_price_max": 220000,
+        "sale_price_min": 220000,
+        "sale_price_max": 220000,
+        "sold": 1,
+        "seller_admin_id": 340028,
+        "sku_user": "G4trangxam3",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 340028,
+            "name": "GIẦY ĐẸP GIÁ RẺ SỐ 1",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {}
+    },
+    {
+        "id": 13834185,
+        "name": "GIẦY SNEAKER VẢI CANVAS G15 [ ĐEN ] THỂ THAO Nam dễ phối thời trang phong cách trẻ trung năng động",
+        "category_path": "giay-sneaker-vai-canvas-g15-den-the-thao-nam-de-phoi-thoi-trang-phong-cach-tre-trung-nang-dong-13834185.html",
+        "image": "https://media3.scdn.vn/img3/2019/1_2/uIcZ3W_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 99000,
+        "default_price_max": 99000,
+        "sale_price_min": 99000,
+        "sale_price_max": 99000,
+        "sold": 2,
+        "seller_admin_id": 421855,
+        "sku_user": "G15",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 421855,
+            "name": "GIẦY NHẬP KHẨU GIÁ TẠI KHO",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 10658074,
+        "name": "GIẦY SNEAKER DA [ ĐEN ]  HOT TREND Thể Thao Nam mới nhất 2018",
+        "category_path": "giay-sneaker-da-den-hot-trend-the-thao-nam-moi-nhat-2018-10658074.html",
+        "image": "https://media3.scdn.vn/img2/2018/7_17/xAgEVL_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 220000,
+        "default_price_max": 220000,
+        "sale_price_min": 220000,
+        "sale_price_max": 220000,
+        "sold": 4,
+        "seller_admin_id": 340028,
+        "sku_user": "sneakerden",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 340028,
+            "name": "GIẦY ĐẸP GIÁ RẺ SỐ 1",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {}
+    },
+    {
+        "id": 17411520,
+        "name": "[ SNEAKER TOP 1 ] GIẦY SNEAKER CAO CẤP G2 NB - XÁM Thể Thao Nam phong cách Korea HOT TREND",
+        "category_path": "sneaker-top-1-giay-sneaker-cao-cap-g2-nb-xam-the-thao-nam-phong-cach-korea-hot-trend-17411520.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_18/HzRwpp_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 300000,
+        "default_price_max": 300000,
+        "sale_price_min": 300000,
+        "sale_price_max": 300000,
+        "sold": 3,
+        "seller_admin_id": 118460,
+        "sku_user": "G2xam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 118460,
+            "name": "Thiết Bị Kích Sóng Wifi",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 3,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 23814444,
+        "name": "Giầy thời trang thể thao kẻ caro dây buộc Rozalo R6016",
+        "category_path": "giay-thoi-trang-the-thao-ke-caro-day-buoc-rozalo-r6016-23814444.html",
+        "image": "https://media3.scdn.vn/img3/2019/11_20/j5CKCs_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 195000,
+        "default_price_max": 195000,
+        "sale_price_min": 129000,
+        "sale_price_max": 129000,
+        "sale_percent": 34,
+        "sold": 25,
+        "seller_admin_id": 452042,
+        "sku_user": "6016",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 452042,
+            "name": "ROZALO MALL",
+            "is_certified": true,
+            "status": 2,
+            "level": 4,
+            "type": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/d0DISnbiFa7jRW20whKD.png",
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                "shop_type": "https://media3.scdn.vn/img4/2022/08_30/Niw4htmWmKd2rNiMEHpE.png"
+            }
+        },
+        "rated": {
+            "total": 6,
+            "star": 4.8
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17733366,
+        "name": "Giầy thể thao nam nữ năng động",
+        "category_path": "giay-the-thao-nam-nu-nang-dong-17733366.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_26/boXoiA_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 650000,
+        "default_price_max": 650000,
+        "sale_price_min": 650000,
+        "sale_price_max": 650000,
+        "sold": 1,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao  cá tính",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 13298871,
+        "name": "GIẦY NAM NỮ THỂ THAO HÀNG VIỆT NAM SẢN XUẤT- TẶNG 1 tất-vớ VNXK",
+        "category_path": "giay-nam-nu-the-thao-hang-viet-nam-san-xuat-tang-1-tat-vo-vnxk-13298871.html",
+        "image": "https://media3.scdn.vn/img2/2018/12_5/k61SyG_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 258000,
+        "default_price_max": 258000,
+        "sale_price_min": 258000,
+        "sale_price_max": 258000,
+        "sold": 184,
+        "discount_app": 2,
+        "seller_admin_id": 349078,
+        "sku_user": "VN31",
+        "product_type": 23,
+        "like_counter": 20,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 349078,
+            "name": "GIẦY 88",
+            "status": 2,
+            "ware_house_region_name": "Vĩnh Phúc",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {
+            "total": 51,
+            "star": 4.5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 18056226,
+        "name": "Giầy thể thao nam cao cấp",
+        "category_path": "giay-the-thao-nam-cao-cap-18056226.html",
+        "image": "https://media3.scdn.vn/img3/2019/5_11/nJHkFU_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam buộc dây",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17732852,
+        "name": "Giầy thể thao nam nữ năng động",
+        "category_path": "giay-the-thao-nam-nu-nang-dong-17732852.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_26/WqF8ek_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam nữ năng động",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17580869,
+        "name": "Giầy thể thao nam nữ cá tính phong cách",
+        "category_path": "giay-the-thao-nam-nu-ca-tinh-phong-cach-17580869.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_20/1fSBd1_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam nữ cá tính",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17204881,
+        "name": "Giầy thể thao nam nữ",
+        "category_path": "giay-the-thao-nam-nu-17204881.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_4/ecmTu6_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 450000,
+        "default_price_max": 450000,
+        "sale_price_min": 450000,
+        "sale_price_max": 450000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam chất lượng",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17607901,
+        "name": "Giầy thể thao nam nữ cá tính phong cách",
+        "category_path": "giay-the-thao-nam-nu-ca-tinh-phong-cach-17607901.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_21/3L3GuT_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 650000,
+        "default_price_max": 650000,
+        "sale_price_min": 650000,
+        "sale_price_max": 650000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam năng động",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16926866,
+        "name": "Giầy Thể Thao Nam Nữ",
+        "category_path": "giay-the-thao-nam-nu-16926866.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_23/vAAkwt_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy Thể Thao Nam",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 16786712,
+        "name": "Giầy thể thao nam cao cấp",
+        "category_path": "giay-the-thao-nam-cao-cap-16786712.html",
+        "image": "https://media3.scdn.vn/img3/2019/3_18/QfJLF3_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 299000,
+        "default_price_max": 299000,
+        "sale_price_min": 299000,
+        "sale_price_max": 299000,
+        "sold": 7,
+        "discount_app": 2,
+        "seller_admin_id": 327226,
+        "sku_user": "gtt50",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 327226,
+            "name": "thế giới giầy 84",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17605567,
+        "name": "Giầy thể thao nam nữ cá tính",
+        "category_path": "giay-the-thao-nam-nu-ca-tinh-17605567.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_21/8adyDX_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam  cá tính",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17195211,
+        "name": "Giầy thể thao nam nữ cao cấp",
+        "category_path": "giay-the-thao-nam-nu-cao-cap-17195211.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_4/8djdZc_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 680000,
+        "default_price_max": 680000,
+        "sale_price_min": 680000,
+        "sale_price_max": 680000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao nam nữ cao cấp",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 11485429,
+        "name": "Giầy thể thao nam cao cấp",
+        "category_path": "giay-the-thao-nam-cao-cap-11485429.html",
+        "image": "https://media3.scdn.vn/img2/2018/9_1/U0ueaj_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 279000,
+        "default_price_max": 279000,
+        "sale_price_min": 279000,
+        "sale_price_max": 279000,
+        "sold": 3,
+        "discount_app": 2,
+        "seller_admin_id": 327226,
+        "sku_user": "Gtt112",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 327226,
+            "name": "thế giới giầy 84",
+            "status": 2,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21649774,
+        "name": "Giầy thể thao nam Thoáng khí fom đẹpG2",
+        "category_path": "giay-the-thao-nam-thoang-khi-fom-depg2-21649774.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_12/QYUcER_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 210000,
+        "default_price_max": 210000,
+        "sale_price_min": 210000,
+        "sale_price_max": 210000,
+        "sold": 1,
+        "seller_admin_id": 598121,
+        "sku_user": "G2",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 598121,
+            "name": "nguyenhuong06",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 17126909,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-17126909.html",
+        "image": "https://media3.scdn.vn/img3/2019/4_1/mCCtIp_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 780000,
+        "default_price_max": 780000,
+        "sale_price_min": 780000,
+        "sale_price_max": 780000,
+        "seller_admin_id": 535930,
+        "sku_user": "Giầy thể thao đế cao",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 535930,
+            "name": "Store Giầy",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37025990,
+        "name": "giầy thể thao nam hot hit",
+        "category_path": "giay-the-thao-nam-hot-hit-37025990.html",
+        "image": "https://media3.scdn.vn/img4/2021/11_26/5eeqwMDFnzGVlTADGtKt_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 189000,
+        "default_price_max": 189000,
+        "sale_price_min": 189000,
+        "sale_price_max": 189000,
+        "sold": 2,
+        "seller_admin_id": 740006,
+        "sku_user": "giầy nam thể thao",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 740006,
+            "name": "Shop Giầy Song Trúc",
+            "status": 2,
+            "ware_house_region_name": "Bình Thuận",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20582016,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-20582016.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_7/NhaOC1_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 400000,
+        "default_price_max": 400000,
+        "sale_price_min": 400000,
+        "sale_price_max": 400000,
+        "seller_admin_id": 609932,
+        "sku_user": "DTT01",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 609932,
+            "name": "Giaydephuyanh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 21649851,
+        "name": "Giầy thể thao nam Spiso Runnr",
+        "category_path": "giay-the-thao-nam-spiso-runnr-21649851.html",
+        "image": "https://media3.scdn.vn/img3/2019/9_12/lKDM54_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 210000,
+        "default_price_max": 210000,
+        "sale_price_min": 210000,
+        "sale_price_max": 210000,
+        "sold": 1,
+        "seller_admin_id": 598121,
+        "sku_user": "G3",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 598121,
+            "name": "nguyenhuong06",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {
+            "total": 1,
+            "star": 5
+        },
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37152739,
+        "name": "Giầy thể thao nam phong cách Hàn Quốc",
+        "category_path": "giay-the-thao-nam-phong-cach-han-quoc-37152739.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_08/wP0qHHIjPe8ko7l1qFec_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 299000,
+        "default_price_max": 299000,
+        "sale_price_min": 299000,
+        "sale_price_max": 299000,
+        "has_video": true,
+        "seller_admin_id": 443278,
+        "sku_user": "GTTN06",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 443278,
+            "name": "KODOMOSHOP",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20582115,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-20582115.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_7/JTTWFM_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 400000,
+        "default_price_max": 400000,
+        "sale_price_min": 400000,
+        "sale_price_max": 400000,
+        "seller_admin_id": 609932,
+        "sku_user": "DT02",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 609932,
+            "name": "Giaydephuyanh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 20582211,
+        "name": "Giầy thể thao nam",
+        "category_path": "giay-the-thao-nam-20582211.html",
+        "image": "https://media3.scdn.vn/img3/2019/8_7/C0LNUb_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 400000,
+        "default_price_max": 400000,
+        "sale_price_min": 400000,
+        "sale_price_max": 400000,
+        "seller_admin_id": 609932,
+        "sku_user": "DT03",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 609932,
+            "name": "Giaydephuyanh",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {}
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 38113491,
+        "name": "Giầy thể thao nam thời trang  R7133",
+        "category_path": "giay-the-thao-nam-thoi-trang-r7133-38113491.html",
+        "image": "https://media3.scdn.vn/img4/2020/12_08/xQ9f6jkpGfTbqBu19Azu_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 855000,
+        "default_price_max": 855000,
+        "sale_price_min": 855000,
+        "sale_price_max": 855000,
+        "discount_app": 5,
+        "seller_admin_id": 859092,
+        "sku_user": "x1b-SKU23",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 859092,
+            "name": "Supermarket Hot Trends",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 84863218,
+        "name": "Giầy thể thao nam Y500 thời trang",
+        "category_path": "giay-the-thao-nam-y500-thoi-trang-84863218.html",
+        "image": "https://media3.scdn.vn/img4/2022/03_26/TrnrGkLjye1NBO0Yq1MY_simg_de2fe0_250x250_maxb.jpg",
+        "default_price_min": 184000,
+        "default_price_max": 184000,
+        "sale_price_min": 184000,
+        "sale_price_max": 184000,
+        "seller_admin_id": 515697,
+        "sku_user": "1728_84863218",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 515697,
+            "name": "haiquynh06",
+            "is_certified": true,
+            "status": 2,
+            "level": 3,
+            "ware_house_region_name": "Hà Nội",
+            "badge_urls": {
+                "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37390585,
+        "name": "Giầy thể thao nam họa tiết 022",
+        "category_path": "giay-the-thao-nam-hoa-tiet-022-37390585.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_16/DmyzxHWf2zCmHgpDG0zk_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 718000,
+        "default_price_max": 718000,
+        "sale_price_min": 608000,
+        "sale_price_max": 608000,
+        "sale_percent": 16,
+        "discount_app": 5,
+        "seller_admin_id": 850943,
+        "sku_user": "022",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 850943,
+            "name": "Sàn Thương Mại Tại Gia",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37389902,
+        "name": "Giầy thể thao nam họa tiết 022",
+        "category_path": "giay-the-thao-nam-hoa-tiet-022-37389902.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_16/DmyzxHWf2zCmHgpDG0zk_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 718000,
+        "default_price_max": 718000,
+        "sale_price_min": 718000,
+        "sale_price_max": 718000,
+        "discount_app": 5,
+        "seller_admin_id": 850954,
+        "sku_user": "022",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 850954,
+            "name": "Siêu Thị Tại Nhà Hàng Chất",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    },
+    {
+        "id": 37390555,
+        "name": "GIầy thể thao NAM, gót mầu sẵn hàng 058",
+        "category_path": "giay-the-thao-nam-got-mau-san-hang-058-37390555.html",
+        "image": "https://media3.scdn.vn/img4/2020/11_16/qwEJd4qXQsmzBkDQS1Gn_simg_de2fe0_250x250_maxb.png",
+        "default_price_min": 718000,
+        "default_price_max": 718000,
+        "sale_price_min": 608000,
+        "sale_price_max": 608000,
+        "sale_percent": 16,
+        "discount_app": 5,
+        "seller_admin_id": 850943,
+        "sku_user": "058.1",
+        "product_type": 23,
+        "status_new": 2,
+        "stock_status": 1,
+        "search_feed_type": "SKU",
+        "shop": {
+            "id": 850943,
+            "name": "Sàn Thương Mại Tại Gia",
+            "status": 2,
+            "type": 1,
+            "ware_house_region_name": "Lâm Đồng",
+            "badge_urls": {
+                "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+            }
+        },
+        "rated": {},
+        "options": {},
+        "package_discount": [
+            {
+                "position": "top",
+                "type": "shipping_discount",
+                "text_color": "#14babd",
+                "bg_color": "#e2f6f7",
+                "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+            },
+            {
+                "position": "bottom",
+                "type": "pay_later",
+                "text": "Trả góp Kredivo",
+                "text_color": "#133096",
+                "bg_color": "#f1f3f9",
+                "icon": "https://media3.scdn.vn/img4/2022/06_24/V5PHsdxRbMf35yH1KO0h.png"
+            }
+        ]
+    }
+]}

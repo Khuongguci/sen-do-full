@@ -1,0 +1,109 @@
+.filter__Scrollbar{
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;  
+}
+.filter__Scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+.filter__Scrollbar::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+.filter__Scrollbar::-webkit-scrollbar-thumb {
+  background: #ccc; 
+  border-radius: 10px;
+}
+
+
+.filter__header{
+    position: relative;
+    font-size: 1.3rem;
+    color: #0f1e29;
+    margin: 0;
+}
+.filter-tilter{
+    margin-left: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    margin-top: 0;
+}
+.down{
+    display: none;
+}
+.btn--toggle{
+    border: none;
+    background-color: #fff; 
+}
+.btn--toggle  button{
+    border: none;
+    background-color: #fff;
+    width: 20px;
+    height: 30px;
+    cursor: pointer;
+}
+.btn--toggle button:hover{
+    background-color: rgb(244, 241, 241);
+   
+}
+.filter-option,
+.filter-option--price,
+.filter-value,
+.filter-option-color {
+    width: 90%;
+    padding-left: 1.2rem;
+    font-size: 1.4rem;
+    color: #3f4b53;
+    height: 100%;
+    line-height: 3rem;
+    cursor: pointer;
+}
+.filter-option--btn{
+    border: none;
+    width: 80%;
+    height: 30px;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.filter-option--btn:hover{
+     color: rgb(0, 0, 0);
+     font-weight: 600;
+ 
+}
+.filter-option:hover{
+    color: rgb(0, 0, 0);
+     font-weight: 600;
+     background-color: rgba(243, 238, 238, 0.8);
+     border-radius: 4px;
+}
+.checkbox{
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+.filter-name{
+    max-width: calc(100% - 3.2rem);
+    margin-left: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    
+}
+.color{
+    display: inline-block;
+    padding: 12px;
+}
+.filter-option-color{
+    border: solid 1px #ddd;
+    width: 10px;
+    height: 17px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.rotate-btn {
+    transform: rotate(180deg);
+}
+.set-active {
+    display: none;
+}
+

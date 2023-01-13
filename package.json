@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nestjs/typeorm": "^9.0.1",
+    "customize-cra": "^1.0.0",
+    "mysql": "^2.18.1",
+    "react-app-rewired": "^2.2.1",
+    "typeorm": "^0.3.11"
+  }
+}
